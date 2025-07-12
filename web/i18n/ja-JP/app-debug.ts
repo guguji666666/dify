@@ -359,6 +359,7 @@ const translation = {
     'labelName': 'ラベル名',
     'inputPlaceholder': '入力してください',
     'required': '必須',
+    'hide': '非表示',
     'file': {
       supportFileTypes: 'サポートされたファイルタイプ',
       image: {
@@ -433,6 +434,7 @@ const translation = {
     writeOpener: 'オープナーを書く',
     placeholder: 'ここにオープナーメッセージを書いてください。変数を使用できます。{{variable}} を入力してみてください。',
     openingQuestion: '開始質問',
+    openingQuestionPlaceholder: '変数を使用できます。{{variable}} と入力してみてください。',
     noDataPlaceHolder:
       'ユーザーとの会話を開始すると、会話アプリケーションで彼らとのより密接な関係を築くのに役立ちます。',
     varTip: '変数を使用できます。{{variable}} を入力してみてください',
